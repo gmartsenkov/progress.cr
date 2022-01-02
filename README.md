@@ -13,7 +13,7 @@ Simple and customizable progress bar for Crystal.
    ```yaml
    dependencies:
      progress:
-       github: kandayo/progress
+       github: kandayo/progress.cr
    ```
 
 2. Run `shards install`
